@@ -7,8 +7,8 @@
 
 ### My Repositories
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=poddarrishi02&repo=Co-VAX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/poddarrishi02/Co-VAX)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=poddarrishi02&repo=OOPS_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/poddarrishi02/OOPS_Project)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=poddarrishi02&repo=Information-retrieval&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/poddarrishi02/Information-retrieval)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=poddarrishi02&repo=ParkAway&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/poddarrishi02/ParkAway)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=poddarrishi02&repo=Passage-Retrieval&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/poddarrishi02/Passage-Retrieval)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=poddarrishi02&repo=GameOfGolds&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/poddarrishi02/GameOfGolds)
 
 <p align="left">
